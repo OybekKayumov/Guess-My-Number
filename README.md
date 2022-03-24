@@ -2,4 +2,4 @@
 
 ![image](https://user-images.githubusercontent.com/85465559/159895154-802ad065-1ff2-4c9b-be89-b8de3761c44b.png)
 
-live demo (https://oybekkayumov.github.io/Guess-My-Number/)
+[live demo](https://oybekkayumov.github.io/Guess-My-Number/)
